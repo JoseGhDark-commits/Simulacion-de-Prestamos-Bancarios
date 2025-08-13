@@ -63,11 +63,11 @@ Este proyecto se distribuye bajo la licencia Apache. Consulta el archivo LICENSE
 ## Personalización ✨
 
 Puedes ajustar los colores, fuentes y otros estilos en el archivo `styles.css`. También puedes modificar el mensaje de despedida en el archivo `app.js`, en la función `generatePDF()`.
-¡Gracias por utilizar la Simulación de Préstamos Bancarios! Si tienes alguna sugerencia o encuentras algún problema, no dudes en abrir un issue.
+¡Gracias por utilizar la mini app: Simulador de Préstamos Bancarios! Si tienes alguna sugerencia o encuentras algún problema, no dudes en abrir un issue.
 
 Este `README.md` cubre todos los aspectos principales del proyecto: desde la funcionalidad hasta la estructura, dependencias y ejemplos de código.
 ## Copyright ✨
-Copyright © 2024 JoseGhDarkLTD. Todos los derechos reservados.
+Copyright © 2025 JoseGhDarkLTD. Todos los derechos reservados.
 
 Este software no puede ser copiado, distribuido, modificado ni usado sin el permiso explícito del autor. 
 
