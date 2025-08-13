@@ -1,4 +1,4 @@
-# Simulación de Préstamos Bancarios
+# Simulador de Préstamos Bancarios
 
 Este proyecto es una aplicación web sencilla para simular préstamos bancarios, permitiendo a los usuarios calcular el cronograma de pagos semanal con un monto específico, tasa de interés anual y número de semanas definido. Al finalizar la simulación, se genera un archivo PDF con el detalle del préstamo, que incluye un resumen de la amortización y una página de despedida.
 
