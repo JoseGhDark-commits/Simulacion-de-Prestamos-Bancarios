@@ -57,9 +57,7 @@ Este proyecto no requiere instalación de dependencias adicionales, ya que utili
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto o añadir nuevas características, no dudes en hacer un fork y abrir un pull request.
 
 ## Licencia ✨
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-are.com/ajax/libs/jspdf-autotable/3.5.13/jspdf.plugin.autotable.min.js)
+Este proyecto se distribuye bajo la licencia Apache. Consulta el archivo LICENSE para más detalles.
   
 
 ## Personalización ✨
