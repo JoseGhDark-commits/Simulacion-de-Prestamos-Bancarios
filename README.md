@@ -28,7 +28,7 @@ Este proyecto es una aplicación web sencilla para simular préstamos bancarios,
 - **jsPDF & jsPDF-AutoTable**: Bibliotecas para generar el PDF y crear una tabla de amortización dentro del archivo.
 
 ## Cómo Usar la Aplicación ✨
--Demo: https://joseghdark-commits.github.io/Simulacion-de-Prestamos-Bancarios/
+-Demo: (https://joseghdark-commits.github.io/Simulador-de-Prestamos-Bancarios/)
 1. Clona este repositorio o descarga los archivos.
 2. Abre el archivo `index.html` en un navegador web.
 3. Ingresa los detalles del préstamo en el formulario:
